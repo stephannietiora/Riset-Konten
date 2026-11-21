@@ -25,6 +25,8 @@ Sumber: 11 link Instagram. Data diambil pada 21 November 2026 dari caption, juml
 ## 1. Loopra — "Tukang ojol vs n8n"
 https://www.instagram.com/p/DemxEmNAduT/ · @loopraidn · 17 Okt 2026
 
+<img src="thumbnail/01.jpg" width="220" alt="Thumbnail 1">
+
 **Judul/topik:** Iklan produk Loopra, tools AI untuk YouTube automation tanpa coding.
 
 **Ringkasan:** Storytelling perbandingan dua driver ojol yang membeli tools YouTube automation di hari yang sama. Yang pakai n8n bingung dengan node-node yang rumit dan belum jadi satu video pun. Yang pakai Loopra cukup menempel 1 link video viral AS dari HP, lalu 5 sistem AI mengerjakan sisanya. Thumbnail berupa animasi kartun hijau lucu dengan teks "ADA YANG BIKIN".
@@ -46,6 +48,8 @@ https://www.instagram.com/p/DemxEmNAduT/ · @loopraidn · 17 Okt 2026
 ## 2. "Kumpulan chat ojol" — @iq0670 (balleee06)
 https://www.instagram.com/reel/DeUPR0rSsir/ · 10 Okt 2026
 
+<img src="thumbnail/02.jpg" width="220" alt="Thumbnail 2">
+
 **Judul/topik:** Kompilasi chat lucu antara driver ojol dan pelanggan.
 
 **Ringkasan:** Kreator merekam wajahnya sendiri dengan ekspresi heboh dan teks "kumpulan chat ojol". *(dugaan)* Isinya membacakan atau menampilkan screenshot chat ojol yang absurd. Caption hanya "surikiti 😭😭✨", tetapi meraih **3 juta like**.
@@ -64,6 +68,8 @@ https://www.instagram.com/reel/DeUPR0rSsir/ · 10 Okt 2026
 ## 3. Mie Soobek — "Kak.. 😭"
 https://www.instagram.com/reel/DejktvFSFkn/ · 16 Okt 2026
 
+<img src="thumbnail/03.jpg" width="220" alt="Thumbnail 3">
+
 **Judul/topik:** Konten brand kuliner (BiangMie Bandung) dengan gaya meme/edit.
 
 **Ringkasan:** Thumbnail berisi kolase kendaraan (truk sampah, truk Hino, bus, ambulans, delman, truk tangki) di atas peta Bandung. *(dugaan)* Ini meme tentang perjalanan atau "segala cara untuk sampai ke Mie Soobek", atau kisah pesanan yang melewati banyak kendaraan. 524K like.
@@ -80,6 +86,8 @@ https://www.instagram.com/reel/DejktvFSFkn/ · 16 Okt 2026
 ## 4. Mie Soobek — "Kupluk.."
 https://www.instagram.com/reel/DeWafs-y1td/ · 11 Okt 2026
 
+<img src="thumbnail/04.jpg" width="220" alt="Thumbnail 4">
+
 **Judul/topik:** Drama chat pelanggan.
 
 **Ringkasan:** Thumbnail berupa screenshot chat berisi "ka?" lalu "p p p p p" berulang (spam ping) dengan tulisan "TOLONG!" merah di seluruh layar. *(dugaan)* Ini cerita lucu tentang pelanggan yang spam chat atau dramatisasi admin yang kewalahan. 308K like.
@@ -94,6 +102,8 @@ https://www.instagram.com/reel/DeWafs-y1td/ · 11 Okt 2026
 
 ## 5. "Kumpulan chat ojol part 4" — @iq0670
 https://www.instagram.com/reel/DfW9CiNyU4_/ · 5 Nov 2026
+
+<img src="thumbnail/05.jpg" width="220" alt="Thumbnail 5">
 
 **Judul/topik:** Lanjutan seri #2.
 
@@ -110,6 +120,8 @@ https://www.instagram.com/reel/DfW9CiNyU4_/ · 5 Nov 2026
 ## 6. Mie Soobek — "Bukan untuk ditiru ✋🏼"
 https://www.instagram.com/reel/Df1zqsRSCo3/ · 17 Nov 2026
 
+<img src="thumbnail/06.jpg" width="220" alt="Thumbnail 6">
+
 **Judul/topik:** Konten produk dengan bumbu humor/kontroversi kecil.
 
 **Ringkasan:** Thumbnail menampilkan mie dalam kemasan take-away (pangsit, sayur, kerupuk, kuah terpisah) di meja toko dengan menu. *(dugaan)* Isinya cara makan atau trik "nyeleneh" terhadap produk. Caption "bukan untuk ditiru" memancing rasa penasaran. 110K like.
@@ -124,6 +136,8 @@ https://www.instagram.com/reel/Df1zqsRSCo3/ · 17 Nov 2026
 
 ## 7. Abi Arts — "Boom saka laka boom"
 https://www.instagram.com/reel/DemLacYBlqx/ · 17 Okt 2026
+
+<img src="thumbnail/07.jpg" width="220" alt="Thumbnail 7">
 
 **Judul/topik:** Gambar pensil lucu (funny drawing).
 
@@ -141,6 +155,8 @@ https://www.instagram.com/reel/DemLacYBlqx/ · 17 Okt 2026
 ## 8. Mie Soobek — "Lain kali lebih teliti ya 🙏🏼"
 https://www.instagram.com/reel/De6j8_syxpm/ · 25 Okt 2026
 
+<img src="thumbnail/08.jpg" width="220" alt="Thumbnail 8">
+
 **Judul/topik:** Meme berbahasa Sunda.
 
 **Ringkasan:** Thumbnail berupa pria tidur dengan latar kebakaran hutan dan peta, plus teks "HUDANG!" (bangun! dalam Bahasa Sunda) dan logo Mie Soobek. *(dugaan)* Ini meme tentang orang yang tidak sadar situasi gawat, dikaitkan dengan isu atau kejadian tertentu. 130K like.
@@ -156,6 +172,8 @@ https://www.instagram.com/reel/De6j8_syxpm/ · 25 Okt 2026
 
 ## 9. Karinoen — "Capek.. Suka suka ChatGPT aja"
 https://www.instagram.com/reel/DeyHt7CBKMk/ · 21 Okt 2026
+
+<img src="thumbnail/09.jpg" width="220" alt="Thumbnail 9">
 
 **Judul/topik:** Konten gambar AI (ChatGPT): bayi kembar banyak.
 
@@ -173,6 +191,8 @@ https://www.instagram.com/reel/DeyHt7CBKMk/ · 21 Okt 2026
 ## 10. 김민수 (Kim Min Su) — "Makan camilan jam 3 pagi"
 https://www.instagram.com/reel/Dfhx1gmSgJX/ · 9 Nov 2026
 
+<img src="thumbnail/10.jpg" width="220" alt="Thumbnail 10">
+
 **Judul/topik:** Komedi POV: ngemil jam 3 pagi.
 
 **Ringkasan:** Kreator Korea di dapur membawa botol minuman dan plastik camilan dengan teks "POV: Getting a Snack at 3 AM". *(dugaan)* Isinya akting mengendap-endap tanpa dialog. **2 juta like.**
@@ -188,6 +208,8 @@ https://www.instagram.com/reel/Dfhx1gmSgJX/ · 9 Nov 2026
 
 ## 11. Rumpi Gosip — Plot twist chat "kode rahasia" anti-filter spam
 https://www.instagram.com/p/Df8sWcwj396/ · 19 Nov 2026 · Foto
+
+<img src="thumbnail/11.jpg" width="220" alt="Thumbnail 11">
 
 **Judul/topik:** Screenshot chat lucu: menghindari filter spam aplikasi.
 
