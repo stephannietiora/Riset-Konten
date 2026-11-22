@@ -1,6 +1,6 @@
 # Riset Konten Instagram — November 2026
 
-Sumber: 12 link Instagram. Data diambil pada 21–22 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
+Sumber: 13 link Instagram. Data diambil pada 21–22 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
 
 > **Catatan keterbatasan:** Video reel tidak bisa ditonton atau didengar. Analisis video hanya berdasarkan caption dan thumbnail. Bagian yang merupakan dugaan ditandai *(dugaan)*.
 
@@ -20,6 +20,7 @@ Sumber: 12 link Instagram. Data diambil pada 21–22 November 2026 dari caption,
 | 10 | @king_min_su | Reel | **2 jt like** · 7K komentar | Ngemil jam 3 pagi |
 | 11 | @rumpi_gosip | Foto | 16K like · 1,5K komentar | Plot twist screenshot chat anti-filter spam |
 | 12 | @aldogiustino | Reel | 68K like · 559 komentar | Balas komentar: "capek ketipu mulu" (sindiran) |
+| 13 | @motorsiber | Reel | 1K like · 62 komentar | Tips spacer baut, jok Omo X 46→63 cm |
 
 ---
 
@@ -247,17 +248,40 @@ https://www.instagram.com/reel/DgCZIoFPdCN/ · @aldogiustino · 22 Nov 2026
 - Bangun "set" konten tetap (warna latar, properti) supaya video mudah dikenali.
 - Kalau menyindir tokoh publik, jaga nada tetap humor dan hindari tuduhan faktual.
 
+## 13. Motorsiber — "Spacer Baut" (tips modifikasi jok motor Omo X)
+https://www.instagram.com/reel/De3mKYRNCg-/ · @motorsiber · 24 Okt 2026
+
+<img src="thumbnail/13.jpg" width="220" alt="Thumbnail 13">
+
+**Judul/topik:** Tips modifikasi murah supaya jok motor listrik Omo X terbuka lebih lebar.
+
+**Ringkasan:** Bukaan jok Omo X dianggap terlalu sempit sehingga sulit mengatur isi bagasi. Solusinya, tambahkan spacer baut ukuran M6 sepanjang 20 mm pada dudukan hidrolik jok. Thumbnail berupa perbandingan *before/after* bertumpuk: bukaan jok **46 cm → 63 cm**, dengan teks besar "Spacer". Caption menekankan bahwa harganya murah, pemasangannya mudah dan cepat, dan link pembelian ada di bio. 1K like, 62 komentar.
+
+**Poin penting:**
+- **Before/after dengan angka konkret** (46 → 63 cm) adalah bukti visual yang langsung meyakinkan.
+- Menyelesaikan satu masalah spesifik dari satu produk spesifik (niche sangat sempit, audiens sangat tertarget).
+- Spesifikasi teknis yang jelas (M6, 20 mm) membuat penonton bisa langsung mempraktikkan.
+- Monetisasi lewat link afiliasi atau toko di bio, bentuk *soft selling* lewat edukasi.
+- Engagement kecil dibanding konten hiburan, tetapi niat beli penontonnya tinggi.
+
+**Ide yang bisa diterapkan:**
+- Buat seri "1 masalah → 1 solusi murah" untuk produk yang dipakai audiens.
+- Selalu tampilkan before/after dengan angka terukur di frame pertama.
+- Tulis caption berstruktur: masalah → solusi + spesifikasi → manfaat → CTA "link di bio".
+- Cocok untuk afiliasi (Shopee/Tokopedia Affiliate): konten tutorial yang mengarah ke produk.
+
 ---
 
-## Insight umum dari 12 konten
+## Insight umum dari 13 konten
 
 1. **Relatable > produksi mahal.** Konten dengan like tertinggi (3 jt & 2 jt) adalah video wajah sederhana dengan situasi sehari-hari (chat ojol, ngemil tengah malam).
-2. **Chat/screenshot/komentar adalah format emas.** 5 dari 12 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
+2. **Chat/screenshot/komentar adalah format emas.** 5 dari 13 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
 3. **Brand lokal bisa viral lewat meme.** Mie Soobek muncul 4 kali dengan engagement 110K–524K tanpa hard-selling, memakai bahasa Sunda dan konteks Bandung.
 4. **Caption pendek + hook visual kuat** sudah cukup; teks di layar lebih penting daripada caption.
 5. **Seri menurun kalau formatnya tidak divariasikan** (#2 → #5).
 6. **Konten AI murni engagement-nya rendah** dibanding konten berbasis kepribadian.
 7. **Untuk jualan (#1):** gunakan storytelling perbandingan, daftar manfaat, harga coret, garansi, dan CTA "komen KATA".
+8. **Konten edukasi/tutorial niche (#13)** engagement-nya kecil, tetapi niat beli penontonnya tinggi. Cocok untuk afiliasi, dengan before/after berangka sebagai bukti.
 
 ## Rencana aksi yang disarankan
 
