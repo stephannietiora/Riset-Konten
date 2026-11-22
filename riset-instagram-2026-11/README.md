@@ -1,6 +1,6 @@
 # Riset Konten Instagram — November 2026
 
-Sumber: 11 link Instagram. Data diambil pada 21 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
+Sumber: 12 link Instagram. Data diambil pada 21–22 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
 
 > **Catatan keterbatasan:** Video reel tidak bisa ditonton atau didengar. Analisis video hanya berdasarkan caption dan thumbnail. Bagian yang merupakan dugaan ditandai *(dugaan)*.
 
@@ -19,6 +19,7 @@ Sumber: 11 link Instagram. Data diambil pada 21 November 2026 dari caption, juml
 | 9 | @karinoen | Reel | 2,6K like · 108 komentar | Konten AI (bayi kembar) + ChatGPT |
 | 10 | @king_min_su | Reel | **2 jt like** · 7K komentar | Ngemil jam 3 pagi |
 | 11 | @rumpi_gosip | Foto | 16K like · 1,5K komentar | Plot twist screenshot chat anti-filter spam |
+| 12 | @aldogiustino | Reel | 68K like · 559 komentar | Balas komentar: "capek ketipu mulu" (sindiran) |
 
 ---
 
@@ -224,12 +225,34 @@ https://www.instagram.com/p/Df8sWcwj396/ · 19 Nov 2026 · Foto
 - Gunakan struktur caption "Kirain X, ternyata Y".
 - Jika kamu pelaku usaha di marketplace, ini pengingat bahwa platform memblokir ajakan bertransaksi di luar aplikasi.
 
+## 12. M Aldo Giustino — "boong-boongin orang mulu kaya....."
+https://www.instagram.com/reel/DgCZIoFPdCN/ · @aldogiustino · 22 Nov 2026
+
+<img src="thumbnail/12.jpg" width="220" alt="Thumbnail 12">
+
+**Judul/topik:** Reel balasan komentar ("Reply to comment"), tentang orang yang suka bohong/PHP.
+
+**Ringkasan:** Kreator duduk di meja studio rumahan (mikrofon, speaker, laptop, latar merah) sambil tersenyum dan membuat gestur tangan. Di layar ada stiker balasan komentar dari pengikut: "capek banget gue ketipu mulu 😮‍💨". Di bagian bawah ada beberapa ikon avatar (tokoh/figur) dengan simbol ulang. Caption menggantung: "boong-boongin orang mulu kaya.....". *(dugaan)* Isinya menyamakan "orang yang suka bohong" dengan sosok atau pihak tertentu, sebagai sindiran lucu, dengan punchline di akhir video. 68K like, 559 komentar (diunggah hari ini).
+
+**Poin penting:**
+- **Format reply-to-comment:** komentar penonton menjadi ide konten, sekaligus membuat penonton merasa didengar dan memancing lebih banyak komentar.
+- **Caption menggantung ("kaya.....")** memaksa orang menonton sampai habis untuk tahu punchline-nya.
+- Topik "capek ditipu/di-PHP" sangat relatable.
+- Setting studio rumahan yang rapi dan berwarna kuat (merah) terlihat profesional tanpa biaya besar.
+- Avatar tokoh di bawah layar mengarah ke sindiran sosial/politik, yang memancing debat di komentar tetapi berisiko kalau terlalu tajam.
+
+**Ide yang bisa diterapkan:**
+- Rutin pilih 1 komentar menarik per minggu lalu jawab dengan video ("Reply to @...").
+- Pakai caption kalimat yang sengaja dipotong untuk menaikkan watch time.
+- Bangun "set" konten tetap (warna latar, properti) supaya video mudah dikenali.
+- Kalau menyindir tokoh publik, jaga nada tetap humor dan hindari tuduhan faktual.
+
 ---
 
-## Insight umum dari 11 konten
+## Insight umum dari 12 konten
 
 1. **Relatable > produksi mahal.** Konten dengan like tertinggi (3 jt & 2 jt) adalah video wajah sederhana dengan situasi sehari-hari (chat ojol, ngemil tengah malam).
-2. **Chat/screenshot adalah format emas.** 4 dari 11 konten (#2, #4, #5, #11) berbasis chat.
+2. **Chat/screenshot/komentar adalah format emas.** 5 dari 12 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
 3. **Brand lokal bisa viral lewat meme.** Mie Soobek muncul 4 kali dengan engagement 110K–524K tanpa hard-selling, memakai bahasa Sunda dan konteks Bandung.
 4. **Caption pendek + hook visual kuat** sudah cukup; teks di layar lebih penting daripada caption.
 5. **Seri menurun kalau formatnya tidak divariasikan** (#2 → #5).
