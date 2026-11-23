@@ -1,6 +1,6 @@
-# Riset Konten Instagram — November 2026
+# Riset Konten Instagram & Threads — November 2026
 
-Sumber: 13 link Instagram. Data diambil pada 21–22 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
+Sumber: 13 link Instagram + 1 link Threads. Data diambil pada 21–23 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
 
 > **Catatan keterbatasan:** Video reel tidak bisa ditonton atau didengar. Analisis video hanya berdasarkan caption dan thumbnail. Bagian yang merupakan dugaan ditandai *(dugaan)*.
 
@@ -21,6 +21,7 @@ Sumber: 13 link Instagram. Data diambil pada 21–22 November 2026 dari caption,
 | 11 | @rumpi_gosip | Foto | 16K like · 1,5K komentar | Plot twist screenshot chat anti-filter spam |
 | 12 | @aldogiustino | Reel | 68K like · 559 komentar | Balas komentar: "capek ketipu mulu" (sindiran) |
 | 13 | @motorsiber | Reel | 1K like · 62 komentar | Tips spacer baut, jok Omo X 46→63 cm |
+| 14 | @lacosdeternura_veraleide (Threads) | Post Threads + link reel | ~30,4K suka · 563 repost | Siluet penari balet, fotografi seni |
 
 ---
 
@@ -270,18 +271,41 @@ https://www.instagram.com/reel/De3mKYRNCg-/ · @motorsiber · 24 Okt 2026
 - Tulis caption berstruktur: masalah → solusi + spesifikasi → manfaat → CTA "link di bio".
 - Cocok untuk afiliasi (Shopee/Tokopedia Affiliate): konten tutorial yang mengarah ke produk.
 
+## 14. Vera Leide (Threads) — "Disciplina. Criatividade. Arte."
+https://www.threads.com/share/BBTZo-sFsm → https://www.threads.com/@lacosdeternura_veraleide/post/DgDLlKaETLh · Threads · 22 Nov 2026
+
+<img src="thumbnail/14.jpg" width="220" alt="Thumbnail 14">
+
+**Judul/topik:** Repost video fotografi seni (siluet penari balet) di Threads.
+
+**Ringkasan:** Akun Threads berbahasa Portugis (Brasil) @lacosdeternura_veraleide membagikan link reel Instagram dengan teks singkat tiga kata: "Disiplin. Kreativitas. Seni." Reel aslinya diunggah akun kurasi @photos_tricks117 ("Photography Tips & Tricks", 16 Okt 2026, 428K like). Video aslinya karya @nika_ritshel. Visualnya siluet hitam penari balet berdiri di ujung jari kaki (*en pointe*) dengan rok tutu transparan yang mengembang seperti kipas atau bunga, di atas latar putih bersih. Post Threads ini mendapat sekitar **30,4K suka**, 106 balasan, 563 repost, dan 261 share (urutan sesuai ikon di embed Threads).
+
+**Poin penting:**
+- **Konten visual murni tanpa bahasa** bisa menyebar lintas negara: video ini beredar dari kreator asli, ke akun kurasi India, lalu ke akun Brasil di Threads.
+- **Tiga kata bernilai ("Disiplin. Kreativitas. Seni.")** sudah cukup sebagai caption; penonton yang memberi makna sendiri.
+- Kontras ekstrem (hitam di atas putih) dan bentuk yang tidak biasa langsung menghentikan scroll.
+- Akun kurasi tumbuh dengan repost dan kredit ("All rights reserved to the owner… DM for credit/removal") serta pertanyaan "Which one is your favorite?" dan ajakan tag teman.
+- Threads bisa menjadi saluran distribusi ulang untuk konten Instagram (link langsung tampil sebagai pratinjau).
+
+**Ide yang bisa diterapkan:**
+- Buat 1 konten "foto/video estetik" yang kuat secara visual: latar polos, siluet, satu warna dominan, dengan gerakan atau properti kain.
+- Pakai caption minimalis berupa 2–3 kata nilai, misalnya "Sabar. Konsisten. Hasil."
+- Silangkan distribusi: unggah reel di Instagram, lalu bagikan link-nya di Threads dengan teks pendek.
+- ⚠️ Jika ingin menjadi akun kurasi, selalu cantumkan kredit dan sebaiknya minta izin dulu. Repost tanpa izin tetap berisiko pelanggaran hak cipta walaupun ada tulisan "DM for removal".
+
 ---
 
-## Insight umum dari 13 konten
+## Insight umum dari 14 konten
 
 1. **Relatable > produksi mahal.** Konten dengan like tertinggi (3 jt & 2 jt) adalah video wajah sederhana dengan situasi sehari-hari (chat ojol, ngemil tengah malam).
-2. **Chat/screenshot/komentar adalah format emas.** 5 dari 13 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
+2. **Chat/screenshot/komentar adalah format emas.** 5 dari 14 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
 3. **Brand lokal bisa viral lewat meme.** Mie Soobek muncul 4 kali dengan engagement 110K–524K tanpa hard-selling, memakai bahasa Sunda dan konteks Bandung.
 4. **Caption pendek + hook visual kuat** sudah cukup; teks di layar lebih penting daripada caption.
 5. **Seri menurun kalau formatnya tidak divariasikan** (#2 → #5).
 6. **Konten AI murni engagement-nya rendah** dibanding konten berbasis kepribadian.
 7. **Untuk jualan (#1):** gunakan storytelling perbandingan, daftar manfaat, harga coret, garansi, dan CTA "komen KATA".
 8. **Konten edukasi/tutorial niche (#13)** engagement-nya kecil, tetapi niat beli penontonnya tinggi. Cocok untuk afiliasi, dengan before/after berangka sebagai bukti.
+9. **Konten visual tanpa bahasa (#10, #14)** paling mudah menyebar lintas negara dan platform (Instagram → Threads).
 
 ## Rencana aksi yang disarankan
 
