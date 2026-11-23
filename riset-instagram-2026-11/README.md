@@ -1,6 +1,6 @@
 # Riset Konten Instagram & Threads — November 2026
 
-Sumber: 13 link Instagram + 1 link Threads. Data diambil pada 21–23 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
+Sumber: 14 link Instagram + 1 link Threads. Data diambil pada 21–23 November 2026 dari caption, jumlah like/komentar, dan thumbnail (frame pertama).
 
 > **Catatan keterbatasan:** Video reel tidak bisa ditonton atau didengar. Analisis video hanya berdasarkan caption dan thumbnail. Bagian yang merupakan dugaan ditandai *(dugaan)*.
 
@@ -22,6 +22,7 @@ Sumber: 13 link Instagram + 1 link Threads. Data diambil pada 21–23 November 2
 | 12 | @aldogiustino | Reel | 68K like · 559 komentar | Balas komentar: "capek ketipu mulu" (sindiran) |
 | 13 | @motorsiber | Reel | 1K like · 62 komentar | Tips spacer baut, jok Omo X 46→63 cm |
 | 14 | @lacosdeternura_veraleide (Threads) | Post Threads + link reel | ~30,4K suka · 563 repost | Siluet penari balet, fotografi seni |
+| 15 | @marketplaceai.id | Video (iklan kelas) | 3,2K like · 495 komentar | "4 level cara pakai Claude" + jualan kelas 14 hari |
 
 ---
 
@@ -293,19 +294,49 @@ https://www.threads.com/share/BBTZo-sFsm → https://www.threads.com/@lacosdeter
 - Silangkan distribusi: unggah reel di Instagram, lalu bagikan link-nya di Threads dengan teks pendek.
 - ⚠️ Jika ingin menjadi akun kurasi, selalu cantumkan kredit dan sebaiknya minta izin dulu. Repost tanpa izin tetap berisiko pelanggaran hak cipta walaupun ada tulisan "DM for removal".
 
+## 15. Marketplace AI — "4 Level Cara Orang Pakai Claude, Lo Level Berapa?!"
+https://www.instagram.com/p/DdOHZmxMPZw/ · @marketplaceai.id · 13 Sep 2026 · Video
+
+<img src="thumbnail/15.jpg" width="220" alt="Thumbnail 15">
+
+**Judul/topik:** Video edukasi + jualan kelas online "belajar Claude dari nol sampai jago dalam 14 hari".
+
+**Ringkasan:** Kreator bicara ke kamera dengan teks besar "4 LEVEL CARA ORANG PAKAI CLAUDE — LO LEVEL BERAPA?!". Di atasnya ada kolase ikon: piramida dengan label "90% Orang" di dasar dan "Top Tier / Sangat Langka" di puncak, logo Claude, ikon otomasi, dan tulisan "CLAUDE CODE". *(dugaan)* Video menjelaskan 4 tingkatan pemakaian Claude (dari sekadar chat sampai Claude Code), lalu mengarahkan ke kelas. Caption memakai FOMO ("orang udah mulai cuan pake Claude, lu masih di mana?"), menawarkan program 14 hari, dan merinci kurikulum:
+1. Dasar & prompting Claude
+2. Artifacts & konektivitas (analisis dokumen, riset produk, mini app)
+3. Automation & Cowork (otomatisasi kerjaan harian)
+4. Claude Code & vibe coding (bikin landing page sendiri)
+
+Ditutup dengan "promo terbatas, cek link sebelum kehabisan slot". 3,2K like, 495 komentar.
+
+**Poin penting:**
+- **Hook "level/tier" + pertanyaan langsung ("lo level berapa?")** membuat penonton menilai diri sendiri dan terpancing berkomentar.
+- **Visual piramida "90% orang di bawah"** memicu keinginan naik level (FOMO + status).
+- Kurikulum disusun sebagai tangga yang sama dengan 4 level di video, sehingga konten edukasi langsung terhubung ke produk.
+- Urgensi ganda: "14 hari aja" + "promo terbatas / slot".
+- Pola mirip #1 (Loopra): menjual "AI untuk cuan" ke pemula, dengan nada kasual "lu/gue".
+
+**Ide yang bisa diterapkan:**
+- Pakai format "X level orang dalam [skill]: kamu di level mana?" untuk niche apa pun.
+- Tampilkan piramida atau tangga sebagai visual pembuka.
+- Selaraskan struktur konten gratis dengan struktur produk berbayar.
+- Ajak komentar dengan menjawab "level berapa" untuk memancing engagement dan lead.
+- ⚠️ Kritis: klaim "cuan" dan "nol sampai jago 14 hari" perlu disertai bukti atau disclaimer supaya tidak menyesatkan. Nama fitur juga sebaiknya ditulis akurat (misalnya "Cowork", bukan "Coworks").
+
 ---
 
-## Insight umum dari 14 konten
+## Insight umum dari 15 konten
 
 1. **Relatable > produksi mahal.** Konten dengan like tertinggi (3 jt & 2 jt) adalah video wajah sederhana dengan situasi sehari-hari (chat ojol, ngemil tengah malam).
-2. **Chat/screenshot/komentar adalah format emas.** 5 dari 14 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
+2. **Chat/screenshot/komentar adalah format emas.** 5 dari 15 konten (#2, #4, #5, #11, #12) berbasis chat atau balasan komentar.
 3. **Brand lokal bisa viral lewat meme.** Mie Soobek muncul 4 kali dengan engagement 110K–524K tanpa hard-selling, memakai bahasa Sunda dan konteks Bandung.
 4. **Caption pendek + hook visual kuat** sudah cukup; teks di layar lebih penting daripada caption.
 5. **Seri menurun kalau formatnya tidak divariasikan** (#2 → #5).
 6. **Konten AI murni engagement-nya rendah** dibanding konten berbasis kepribadian.
-7. **Untuk jualan (#1):** gunakan storytelling perbandingan, daftar manfaat, harga coret, garansi, dan CTA "komen KATA".
+7. **Untuk jualan (#1, #15):** gunakan storytelling perbandingan, daftar manfaat, harga coret, garansi, dan CTA "komen KATA".
 8. **Konten edukasi/tutorial niche (#13)** engagement-nya kecil, tetapi niat beli penontonnya tinggi. Cocok untuk afiliasi, dengan before/after berangka sebagai bukti.
 9. **Konten visual tanpa bahasa (#10, #14)** paling mudah menyebar lintas negara dan platform (Instagram → Threads).
+10. **Niche "AI untuk cuan" sedang ramai (#1, #15).** Polanya sama: FOMO, bahasa kasual, daftar fitur/kurikulum, promo terbatas. Pembeda ada di bukti hasil dan kejujuran klaim.
 
 ## Rencana aksi yang disarankan
 
